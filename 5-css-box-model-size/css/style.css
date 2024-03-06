@@ -1,0 +1,13 @@
+#box1 {
+    border: 5px solid red;
+    padding: 30px;
+    margin: 40px;
+    width: 500px
+}
+
+#box2 {
+    border: 5px solid blue;
+    padding: 5px;
+    width: 50%;
+    height: 50%;
+}
